@@ -21,17 +21,5 @@
   "links": [
     {"source": "RO1", "target": "RO1", "value": 1},
     {"source": "RO1", "target": "RO3", "value": 1},
-    {"source": "RO1", "target": "RO4", "value": 1},
-    {"source": "RO1", "target": "RO5", "value": 1},
-    {"source": "RO1", "target": "RO6", "value": 1},
-    {"source": "RO2", "target": "RO7", "value": 1},
-    {"source": "RO2", "target": "RO8", "value": 1},
-    {"source": "RO2", "target": "RO4", "value": 1},
-    {"source": "RO11", "target": "R17", "value": 1},
-    {"source": "RO12", "target": "RO1", "value": 1},
-    {"source": "RO12", "target": "RO15", "value": 1},
-    {"source": "RO13", "target": "RO15", "value": 1},
-    {"source": "RO17", "target": "RO15", "value": 1},
-    {"source": "RO16", "target": "RO15", "value": 1}
   ] 
 }
