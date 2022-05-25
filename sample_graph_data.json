@@ -32,7 +32,6 @@
     {"source": "RO12", "target": "RO15", "value": 1},
     {"source": "RO13", "target": "RO15", "value": 1},
     {"source": "RO17", "target": "RO15", "value": 1},
-    {"source": "RO16", "target": "RO15", "value": 1},
-    
+    {"source": "RO16", "target": "RO15", "value": 1}
   ]
 }
