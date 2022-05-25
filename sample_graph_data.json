@@ -1,20 +1,20 @@
 {
   "nodes": [
-    {"id": "Myriel", "group": 1},
-    {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
-    {"id": "Mme.Magloire", "group": 1},
-    {"id": "CountessdeLo", "group": 1},
-    {"id": "Geborand", "group": 1},
-    {"id": "Champtercier", "group": 1},
-    {"id": "Cravatte", "group": 1},
-    {"id": "Count", "group": 1}
+    {"id": "RO1", "group": 1},
+    {"id": "RO2", "group": 1},
+    {"id": "RO3", "group": 1},
+    {"id": "RO4", "group": 1},
+    {"id": "RO5", "group": 2},
+    {"id": "RO6", "group": 2},
+    {"id": "RO7", "group": 2},
+    {"id": "RO8", "group": 2},
+    {"id": "RO9", "group": 2}
   ],
   "links": [
-    {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},
-    {"source": "Mme.Magloire", "target": "Myriel", "value": 10},
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
-    {"source": "CountessdeLo", "target": "Myriel", "value": 1},
-    {"source": "Geborand", "target": "Myriel", "value": 1}
+    {"source": "RO1", "target": "RO2", "value": 8},
+    {"source": "RO1", "target": "RO3", "value": 10},
+    {"source": "RO1", "target": "RO4", "value": 6},
+    {"source": "RO5", "target": "RO6", "value": 1},
+    {"source": "RO5", "target": "RO8", "value": 1}
   ]
 }
